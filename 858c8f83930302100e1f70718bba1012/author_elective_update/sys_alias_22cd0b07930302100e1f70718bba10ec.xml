@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_512806_test_gi_0.Github_Test</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Github Test</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 06:17:16</sys_created_on>
+        <sys_id>22cd0b07930302100e1f70718bba10ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_512806_test_gi_0.Github_Test</sys_name>
+        <sys_package display_value="Test Git App" source="x_512806_test_gi_0">858c8f83930302100e1f70718bba1012</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git App">858c8f83930302100e1f70718bba1012</sys_scope>
+        <sys_update_name>sys_alias_22cd0b07930302100e1f70718bba10ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 06:17:16</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Git App">858c8f83930302100e1f70718bba1012</application>
+        <file_path/>
+        <instance_id>c7fd4d731b864a1439a54089bd4bcbcb</instance_id>
+        <instance_name>dev270691</instance_name>
+        <name>sys_alias_22cd0b07930302100e1f70718bba10ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_512806_test_gi_0.Github_Test</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Github Test</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-02 06:17:16</sys_created_on><sys_id>22cd0b07930302100e1f70718bba10ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_512806_test_gi_0.Github_Test</sys_name><sys_package display_value="Test Git App" source="x_512806_test_gi_0">858c8f83930302100e1f70718bba1012</sys_package><sys_policy/><sys_scope display_value="Test Git App">858c8f83930302100e1f70718bba1012</sys_scope><sys_update_name>sys_alias_22cd0b07930302100e1f70718bba10ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-02 06:17:16</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-845628182</payload_hash>
+        <record_name>x_512806_test_gi_0.Github_Test</record_name>
+        <reverted_from/>
+        <source>4d8c8f83930302100e1f70718bba1016</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 06:17:16</sys_created_on>
+        <sys_id>2bdd07c3930302100e1f70718bba1076</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190721720940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 06:17:16</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>2fdd07c3fa03021034a2eb0f41da1975</update_guid>
+        <update_guid_history>2fdd07c3fa03021034a2eb0f41da1975:-845628182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 06:17:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0232ff985c674d9e8012c1535a5fa249</sys_id>
+        <sys_metadata>22cd0b07930302100e1f70718bba10ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_512806_test_gi_0.Github_Test</sys_name>
+        <sys_package display_value="Test Git App" source="x_512806_test_gi_0">858c8f83930302100e1f70718bba1012</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Git App">858c8f83930302100e1f70718bba1012</sys_scope>
+        <sys_scope_delete display_value="">91d81f8e5d1b4a229e155f5d9bfb3fa4</sys_scope_delete>
+        <sys_update_name>sys_alias_22cd0b07930302100e1f70718bba10ec</sys_update_name>
+        <sys_update_version display_value="sys_alias_22cd0b07930302100e1f70718bba10ec">2bdd07c3930302100e1f70718bba1076</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 06:17:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
